@@ -1,8 +1,6 @@
-# Hi there 👋
+**Hi 👋, I am Abu Ashraf.**
 
-## Welcome to my Github Profile
-
-I’m living the dream. 💭
+I am a 28 year web developer from 🇧🇩 Bangladesh, living in 🇩🇪 Germany now. 
 
 I’ve always been keen on problem-solving, an independent introvert, and a technophile obsessed with the latest devices/technologies. My fuel is Cola and Steak. 🥩🥤
 
@@ -12,10 +10,12 @@ I’m familiar with a variety of programming languages, including JavaScript, Ty
 
 I’m also eager to meet other software engineers in the area, so feel free to connect! 🍻
 
-- 🔭 I’m currently working on Angular/Ionic, NodeJS and Firebase.
-- 🌱 I’m currently learning React JS. 
-- 👯 I’m looking to collaborate on Javascript projects. 
-- 🤔 I’m looking for help with React. 
-- 📫 How to reach me: abuashraf501@gmail.com/abuashraf501@hotmail.com
+🔭 I’m currently working on Angular/Ionic, NodeJS and Firebase.
 
+🌱 I’m currently learning React JS.
 
+👯 I’m looking to collaborate on Javascript projects.
+
+🤔 I’m looking for help with React.
+
+📫 How to reach me: abuashraf501@gmail.com
